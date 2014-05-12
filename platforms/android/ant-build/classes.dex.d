@@ -1,0 +1,23 @@
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes.dex : \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/com/neontribe/indirectpayments/BuildConfig.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/com/neontribe/indirectpayments/InDips.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/com/neontribe/indirectpayments/R$attr.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/com/neontribe/indirectpayments/R$drawable.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/com/neontribe/indirectpayments/R$string.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/com/neontribe/indirectpayments/R$xml.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/com/neontribe/indirectpayments/R.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/Users/mottokrosh/Documents/Projects/IndirectPaymentsApp/platforms/android/ant-build/dexedLibs/classes-a29af00115c16e96e111c6830f92e5ae.jar \
